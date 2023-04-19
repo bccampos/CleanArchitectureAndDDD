@@ -1,0 +1,12 @@
+C:\Users\bruno\Documents\GitHub\CleanArchitectureAndDDD\bruno.CleanArchDDD\bruno.CleanArchDDD.Domain\bin\Debug\net5.0\bruno.CleanArchDDD.Domain.deps.json
+C:\Users\bruno\Documents\GitHub\CleanArchitectureAndDDD\bruno.CleanArchDDD\bruno.CleanArchDDD.Domain\bin\Debug\net5.0\bruno.CleanArchDDD.Domain.dll
+C:\Users\bruno\Documents\GitHub\CleanArchitectureAndDDD\bruno.CleanArchDDD\bruno.CleanArchDDD.Domain\bin\Debug\net5.0\ref\bruno.CleanArchDDD.Domain.dll
+C:\Users\bruno\Documents\GitHub\CleanArchitectureAndDDD\bruno.CleanArchDDD\bruno.CleanArchDDD.Domain\bin\Debug\net5.0\bruno.CleanArchDDD.Domain.pdb
+C:\Users\bruno\Documents\GitHub\CleanArchitectureAndDDD\bruno.CleanArchDDD\bruno.CleanArchDDD.Domain\obj\Debug\net5.0\bruno.CleanArchDDD.Domain.csprojAssemblyReference.cache
+C:\Users\bruno\Documents\GitHub\CleanArchitectureAndDDD\bruno.CleanArchDDD\bruno.CleanArchDDD.Domain\obj\Debug\net5.0\bruno.CleanArchDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\GitHub\CleanArchitectureAndDDD\bruno.CleanArchDDD\bruno.CleanArchDDD.Domain\obj\Debug\net5.0\bruno.CleanArchDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\GitHub\CleanArchitectureAndDDD\bruno.CleanArchDDD\bruno.CleanArchDDD.Domain\obj\Debug\net5.0\bruno.CleanArchDDD.Domain.AssemblyInfo.cs
+C:\Users\bruno\Documents\GitHub\CleanArchitectureAndDDD\bruno.CleanArchDDD\bruno.CleanArchDDD.Domain\obj\Debug\net5.0\bruno.CleanArchDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\GitHub\CleanArchitectureAndDDD\bruno.CleanArchDDD\bruno.CleanArchDDD.Domain\obj\Debug\net5.0\bruno.CleanArchDDD.Domain.dll
+C:\Users\bruno\Documents\GitHub\CleanArchitectureAndDDD\bruno.CleanArchDDD\bruno.CleanArchDDD.Domain\obj\Debug\net5.0\ref\bruno.CleanArchDDD.Domain.dll
+C:\Users\bruno\Documents\GitHub\CleanArchitectureAndDDD\bruno.CleanArchDDD\bruno.CleanArchDDD.Domain\obj\Debug\net5.0\bruno.CleanArchDDD.Domain.pdb
