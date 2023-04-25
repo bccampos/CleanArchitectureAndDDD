@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PklHxh/KnA9mrwD0ZZEsrv6MPfclR4ntSOHjPSvQTiTHwkqyFCYCT+v25Zb2dGUZO+KFlZc4K4klSOGhBhfv0Q==",
+  "dgSpecHash": "Xoyva+/Wjq65u6PzWcpdA6xyzhk/ZtLEWGhRmZEG0Cm6DgIFzJsNPCqxlyXkjPCc10B6cAp81aYDkV6bAj+6dw==",
   "success": true,
   "projectFilePath": "C:\\Users\\bruno\\Documents\\GitHub\\CleanArchitectureAndDDD\\bruno.CleanArchDDD\\bruno.CleanArchDDD.Domain.Tests\\bruno.CleanArchDDD.Domain.Tests.csproj",
   "expectedPackageFiles": [

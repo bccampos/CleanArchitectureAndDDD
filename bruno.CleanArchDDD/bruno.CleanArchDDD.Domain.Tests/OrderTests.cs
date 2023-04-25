@@ -47,6 +47,17 @@ namespace bruno.CleanArchDDD.Domain.Tests
             Assert.AreEqual(5672, order.GetTotal());
         }
 
+        [Test]
+        public void Shoudl_Not_CreateOrder_WithQuantityNegative()
+        {
+            var validCpf = "778.278.412-36";
+
+            Exception ex = Assert.Throws<Exception>(() => new Order(validCpf, DateTime.UtcNow, -1));
+
+            order.AddCoupon(new Coupon("VALE-20", 20, DateTime.UtcNow));
+            Assert.AreEqual("Invalid Quantity", ex.Message);
+        }
+
 
     }
 }
